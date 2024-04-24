@@ -1,0 +1,4 @@
+Debug/
+frdmk64f_freertos_sem JLink Debug.launch
+.settings/language.settings.xml
+.cproject
